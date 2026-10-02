@@ -7,7 +7,7 @@ mechanisms.
 ## Instructions:
 ---------------
 
-- Start by forking this repository on [bitbucket](https://bitbucket.org/UOCIS322/proj0-hello), then cloning onto your
+- Start by forking this repository on [github](https://github.com/cs-322-fa-26/proj0-hello), then cloning onto your
   development machine. Read this file (README.md). 
   
 - Before you edit a file, read the comments (inside that file) carefully.
@@ -95,3 +95,6 @@ Note that Windows has a "flag exposure" issue. So, expect some troubleshooting f
     ```
 
 This command downloads a test image and runs it in a container. When the container runs, it prints an informational message and exits. For more information: (https://docs.docker.com/get-started/)
+
+if docker-ce gives you issues try docker.io with 
+sudo apt-get install docker.io 
